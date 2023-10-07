@@ -83,8 +83,12 @@ export default {
 .card p {
   max-width: 230px;
 }
+.btn-trial-month {
+  background: orange !important;
+
+}
 .btn-trial {
-  background: orange;
+  background: #479147;
   color: #fff;
   cursor: pointer;
   border-radius: 6px;
